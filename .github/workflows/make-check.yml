@@ -2,7 +2,7 @@ name: Make Check
 
 on:
   push:
-    branches: [ master ]
+    branches: [ ga-test ]
   pull_request:
     branches: [ master ]
 
